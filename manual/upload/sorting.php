@@ -2,5 +2,5 @@
 
 return [
     'upload/',
-    'upload-options/',
+    'upload-options/'
 ];
