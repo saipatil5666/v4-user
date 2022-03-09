@@ -1,24 +1,23 @@
 # Upload Options
 
-Hacer click en cada imagen antes de subir permitira editar la imagen antes de subir. Para editar la imagen antes de subir:
+## Edición avanzada
 
-* Haga click en la imagen a editar
-* Edite el forumario segun sus requirimientos
+Después de haber seleccionado las imágenes para la carga, puedes editar cualquiera de estas haciendo click en la vista previa.
 
-## Detalles
+- Click en la preview de la img
+  - Valores editables:
+    - Title
+    - Description
+    - Album
+    - Category
+    - Resize
+    - Auto delete
+    - Safe/Unsafe
+- Con los valores listos, click en **Submit**
+- Click en **Upload**
 
-### Titulo
+- - -
 
-### Album
-
-### Description
-
-## Resize
-
-## Auto-delete
-
-Bla bla
-
-## Flagging
+### Formatos soportados (JPG, PNG, BMP, GIF, WEBP)
 
 
