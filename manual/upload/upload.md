@@ -10,5 +10,5 @@
 
 - - -
 
-### Formatos soportados (JPG, PNG, BMP, GIF, WEBP)
+*Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
 

@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'profile.md' => '🐸 Profile'
+    'profile.md' => '🧑🏽 Profile'
 ];

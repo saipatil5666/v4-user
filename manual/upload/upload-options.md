@@ -14,10 +14,10 @@ Después de haber seleccionado las imágenes para la carga, puedes editar cualqu
     - Auto delete
     - Safe/Unsafe
 - Con los valores listos, click en **Submit**
-- Click en **Upload**
+- Finalmente para subir, click en **Upload**
 
 - - -
 
-### Formatos soportados (JPG, PNG, BMP, GIF, WEBP)
+*Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
 
 
