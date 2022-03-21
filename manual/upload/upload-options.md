@@ -4,17 +4,13 @@
 
 Después de haber seleccionado las imágenes para la carga, puedes editar cualquiera de estas haciendo click en la vista previa.
 
-- Click en la preview de la img
-  - Valores editables:
-    - Title
-    - Description
-    - Album
-    - Category
-    - Resize
-    - Auto delete
-    - Safe/Unsafe
+![Upload](/manual/upload/imgs/upload_avz.png)
+
+
+![Upload](/manual/upload/imgs/avanzada.png)
+
 - Con los valores listos, click en **Submit**
-- Finalmente para subir, click en **Upload**
+- Finalmente para subir el contenido, click en **Upload**
 
 - - -
 
