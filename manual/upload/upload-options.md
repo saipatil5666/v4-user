@@ -4,10 +4,9 @@
 
 Después de haber seleccionado las imágenes para la carga, puedes editar cualquiera de estas haciendo click en la vista previa.
 
-![Upload](/manual/upload/imgs/upload_avz.png)
+![Upload](../../src/manual/upload/upload_avz.png)
 
-
-![Upload](/manual/upload/imgs/avanzada.png)
+![Upload](../../src/manual/upload/avanzada.png)
 
 - Con los valores listos, click en **Submit**
 - Finalmente para subir el contenido, click en **Upload**
@@ -15,5 +14,3 @@ Después de haber seleccionado las imágenes para la carga, puedes editar cualqu
 - - -
 
 *Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
-
-
