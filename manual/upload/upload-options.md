@@ -4,9 +4,11 @@
 
 Después de haber seleccionado las imágenes para la carga, puedes editar cualquiera de estas haciendo click en la vista previa.
 
-![Upload](../../src/manual/upload/upload_avz.png)
+**Modo avanzado**
 
-![Upload](../../src/manual/upload/avanzada.png)
+<video width="100%" controls autoplay>
+    <source src="../../src/manual/upload/avaz.webm" type="video/webm">
+</video>
 
 - Con los valores listos, click en **Submit**
 - Finalmente para subir el contenido, click en **Upload**
