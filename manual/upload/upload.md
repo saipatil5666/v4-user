@@ -19,5 +19,6 @@
 
 *Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
 
-_(*) Para opciones avanzadas necesitas estar logeado._
+
+[_(*) Para opciones avanzadas necesitas estar logeado._]()
 

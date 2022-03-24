@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'upload/',
-    'upload-options/'
+    'upload.md',
+    'options.md',
 ];
