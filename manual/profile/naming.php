@@ -1,5 +1,8 @@
 <?php
 
 return [
-    'profile.md' => '🧑🏽 Profile'
+    'signin.md' => '🧑🏽 Sign in',
+    'avatar.md' => '🌟 Personalize',
+    'background.md' => '🌠 Background',
+    'password.md' => '🔑 Password'
 ];
