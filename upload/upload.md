@@ -1,12 +1,11 @@
 # Upload
 
-## Cómo subir imágenes? 
+## Cómo subir imágenes?
 
 **Modo básico**
 
-
 <video width="100%" controls autoplay>
-    <source src="../../src/manual/upload/upload.webm" type="video/webm">
+    <source src="../src/manual/upload/upload.webm" type="video/webm">
 </video>
 
 1. Click en el botón **Start Uploading** o en **Upload** ubicado en la topbar.
@@ -19,6 +18,4 @@
 
 *Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
 
-
 [_(*) Para opciones avanzadas necesitas estar logeado._]()
-

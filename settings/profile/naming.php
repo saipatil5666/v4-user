@@ -2,7 +2,7 @@
 
 return [
     'signin.md' => '🧑🏽 Sign in',
-    'avatar.md' => '🌟 Personalize',
+    'avatar.md' => '🌟 Avatar',
     'background.md' => '🌠 Background',
     'password.md' => '🔑 Password'
 ];
