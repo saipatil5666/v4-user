@@ -2,8 +2,8 @@
 
 ## ¿Cómo colocar o cambiar un avatar?
 
-<video width="100%" controls autoplay>
-    <source src="../../src/manual/profile/avatar.webm" type="video/webm">
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../../src/manual/settings/profile/avatar.webm" type="video/webm">
 </video>
 
 1. Click en tu perfil ubicado en la topbar y luego click en "My Profile".
@@ -12,9 +12,7 @@
 
 En esta parte del perfil también podrás editar:
 
-   - Tu privacidad
-   - Tu nombre (no nickname)
-   - Website
-   - Biografía
-
-   
+- [Privacidad](privacy.md)
+- [Nombre](name.md)
+- [Website](web.md)
+- [Biografía](bio.md)

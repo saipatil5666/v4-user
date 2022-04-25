@@ -2,5 +2,4 @@
 
 return [
     'upload.md',
-    'options.md',
 ];

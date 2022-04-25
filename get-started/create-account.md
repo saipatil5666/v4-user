@@ -1,9 +1,13 @@
+---
+sidebar: false
+---
+
 # Create account
 
 ## ¿Cómo crear una cuenta?
 
-<video width="100%" controls autoplay>
-    <source src="../src/manual/profile/signin.webm" type="video/webm">
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../src/manual/settings/profile/signin.webm" type="video/webm">
 </video>
 
 1. Click en **Sign in** ubicado en la topbar.

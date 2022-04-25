@@ -1,10 +1,12 @@
 # Upload
 
-## Cómo subir imágenes?
+## Formatos soportados
 
-**Modo básico**
+Por defecto, Chevereto soporta los formatos de imagen JPG, PNG, BMP, GIF, WEBP. Nota: Algunos formatos podrian estar desabilitados por el administrador del sistema.
 
-<video width="100%" controls autoplay>
+## Upload básico
+
+<video class="media-screen" width="100%" controls autoplay>
     <source src="../src/manual/upload/upload.webm" type="video/webm">
 </video>
 
@@ -14,8 +16,17 @@
 4. Click en el boton **Upload**
 5. Una vez la carga esté completa, puedes crear nuevo album y acceder a los codigos para compartir(*)
 
-- - -
+## Opciones avanzadas
 
-*Formatos soportados (JPG, PNG, BMP, GIF, WEBP)*
+<img class="media-screen" src="../src/manual/upload/upload_avz.png" width="400" align="middle"/>
 
-[_(*) Para opciones avanzadas necesitas estar logeado._]()
+Después de haber seleccionado las imágenes para la carga, puedes editar cualquiera de estas haciendo click en la vista previa.
+
+### Modo avanzado
+
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../src/manual/upload/avaz.webm" type="video/webm">
+</video>
+
+- Con los valores listos, click en **Submit**
+- Finalmente para subir el contenido, click en **Upload**

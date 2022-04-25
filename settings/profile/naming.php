@@ -1,8 +1,12 @@
 <?php
 
 return [
-    'signin.md' => '🧑🏽 Sign in',
-    'avatar.md' => '🌟 Avatar',
-    'background.md' => '🌠 Background',
-    'password.md' => '🔑 Password'
+    'avatar.md' => 'Avatar',
+    'privacy.md' => 'Privacy',
+    'name.md' => 'Name',
+    'web.md' => 'Site web',
+    'bio.md' => 'Bio',
+    'password.md' => 'Password',
+    'background.md' => 'Background',
+    'palette.md' => 'Palette'
 ];

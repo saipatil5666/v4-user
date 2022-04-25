@@ -2,8 +2,8 @@
 
 ## ¿Cómo cambiar el background?
 
-<video width="100%" controls autoplay>
-    <source src="../../src/manual/profile/background.webm" type="video/webm">
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../../src/manual/settings/profile/background.webm" type="video/webm">
 </video>
 
 1. Click en tu perfil ubicado en la topbar y luego click en "My Profile".

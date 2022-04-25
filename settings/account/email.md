@@ -1,5 +1,5 @@
 # Email
 
-Change your email at `/settings` **email address**.
+Cambia tu email en `/settings` **Email address**.
 
-pic?
+![email](../../src/manual/settings/account/email.png)
