@@ -1,0 +1,5 @@
+# Explore
+
+## Categorías
+
+## Random

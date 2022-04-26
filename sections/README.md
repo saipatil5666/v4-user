@@ -3,6 +3,6 @@
 - [x] Upload
 - [x] Advanced Upload
 - [x] Create account
-- [ ] Login
+- [x] Login
 - [ ] Search
 - [ ] Explorer/Random/Categories
