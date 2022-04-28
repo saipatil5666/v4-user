@@ -1,9 +1,11 @@
 # Name
 
-Cambia o actualiza el nombre de tu perfil  `/settings` **Name**.
+Cambie o actualice el nombre de perfil  `/settings` **Name**.
 
 ![Name](../../src/manual/settings/profile/name.png)
 
-Para actualizar tu nombre de usuario
+::: tip Nombre de usuario
+Para actualizar el nombre de usuario:
 
 [Username](../account/username.md)
+:::
