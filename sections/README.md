@@ -4,5 +4,5 @@
 - [x] Advanced Upload
 - [x] Create account
 - [x] Login
-- [ ] Search
+- [x] Search
 - [ ] Explorer/Random/Categories

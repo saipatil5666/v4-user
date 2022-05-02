@@ -37,6 +37,6 @@ Después de haber seleccionado las imágenes para la carga, puede editar cualqui
 - Con los valores listos, click en **Submit**
 - Finalmente para subir el contenido, click en **Upload**
 
-::: tip Sugerencia 
+::: tip Sugerencia
 👉🏻 [Personalice la cuenta de usuario](../settings/profile/avatar.md)
 :::
