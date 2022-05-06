@@ -2,5 +2,6 @@
 
 return [
     'profile.md',
-    'album.md'
+    'content.md',
+    'actions.md',
 ];

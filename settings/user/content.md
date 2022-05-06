@@ -21,17 +21,16 @@ En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
 
 ## Álbum
 
-Para acceder o editar sus álbumes, click en el ícono de usuario y luego click en **Álbumes**
+- Para acceder o editar sus álbumes, click en el ícono de usuario y luego click en **Álbumes**
+- Seleccione el álbum y click en **Acciones**
 
 <img class="media-screen" src="../../src/manual/settings/user/content/user-album.png" width="600"/>
 
 ### Acciones
 
-Si selecciona uno o más de sus álbumes, a su derecha se activará el botón **Acciones**
+Las **Acciones** se activarán al seleccionar uno o más álbumes.
 
 También puede acceder a estas opciones mediante atajos de teclado los cuales se muestran al costado derecho en el menú.
-
-<img class="media-screen" src="../../src/manual/settings/user/content/user-actions.png" width="400"/>
 
 ::: tip Aprenda más
 Visite 👉🏻 [La sección Actions](actions.md) para más detalles
