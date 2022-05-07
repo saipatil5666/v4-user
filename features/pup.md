@@ -2,7 +2,7 @@
 sidebarDepth: 1
 ---
 
-# Popup Upload Plugin
+# 🔌 Popup Upload Plugin
 
 The popup upload plugin (PUP) is a small file that allows to provide external image uploading via a small JavaScript file.
 
@@ -63,7 +63,7 @@ Named color palette of the button or a comma-separated list of colors (HEX, RGB,
 ### `auto-insert`
 
   Embed codes to auto insert in the target editable content. Codes using `full`, `medium` or `thumbnail` will link to the image viewer page.
-  
+
   Use `0` to disable auto insert.
 
 | Type   | Values                                                                                                                                                                                                                                                                                  | Default               |
@@ -138,8 +138,8 @@ Custom button class name. It binds `%bClass` to the template stack.
 
 [Custom HTML](#custom-html).
 
-| Type   | Example            |
-| ------ | ------------------ |  |
+| Type | Example |
+| ---- | ------- ||
 | String | `<div>Button<div>` |
 
 ### `css`
@@ -164,8 +164,8 @@ When disabled, the plugin won't fit the button styling to the target editor (ove
 
 CSS selector for elements that on click event will trigger sibling observation and then button insertion (live append). Useful for dynamic editors that generate editor boxes on the fly.
 
-| Type   | Example     |
-| ------ | ----------- |  |
+| Type | Example |
+| ---- | ------- ||
 | String | `.selector` |
 
 ### `observe-cache`
