@@ -32,11 +32,11 @@ Active o desactive datos Exif
 
 <img class="media-screen" src="../../src/manual/settings/account/exif.png" width="400"/>
 
-> Los datos Exif brindan información específica sobre las imagenes capturadas por una cámara digital. Los datos que pueden guardar van desde la fecha/hora, exposición, lugar, etc. 
+> Los datos Exif brindan información específica sobre las imágenes capturadas por una cámara digital. Los datos que pueden guardar van desde la fecha/hora, exposición, lugar, etc. 
 
 ### Ajustes de contenido
 
-Al marcar esta opción, lás imagenes no se mostrarán en el explorador.
+Al marcar esta opción, lás imágenes no se mostrarán en el explorador.
 
 <img class="media-screen" src="../../src/manual/settings/account/content.png" width="400"/>
 

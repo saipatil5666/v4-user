@@ -5,4 +5,4 @@
 - [x] Create account
 - [x] Login
 - [x] Search
-- [ ] Explorer/Random/Categories
+- [x] Explorer/Random/Categories

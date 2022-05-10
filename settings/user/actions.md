@@ -1,12 +1,12 @@
 # Acciones
 
-Las acciones permiten al usuario administrar todo su contenido. Puede editar de manera masiva dando click en **Todo** o selectivamente dando click derecho en la imágen o arrastrando el cursor para seleccionar varias a la vez:
+Las acciones permiten al usuario administrar todo su contenido. Puede editar de manera masiva dando click en **Todo** o selectivamente dando click derecho en la imagen o arrastrando el cursor para seleccionar varias a la vez:
 
 <video class="media-screen" width="100%" controls autoplay>
     <source src="../../src/manual/settings/user/actions/actions.webm" type="video/webm">
 </video>
 
-## Acciones para álbumes
+## Acciones álbumes
 
 Seleccione uno o más álbumes para activar el menú de acciones a la derecha:
 
@@ -24,9 +24,9 @@ Seleccione uno o más álbumes para activar el menú de acciones a la derecha:
 |Crear sub álbum|J|
 :::
 
-### Herramientas para álbumes
+## Herramientas para álbumes
 
-En **Mis álbumes** usted verá que cada álbum tiene sus propias herramientas de edición:
+En su perfil usted verá que cada álbum o imagen que ha subido, tiene sus propias herramientas e información:
 
 <img class="media-screen" src="../../src/manual/settings/user/actions/album.png" width="500"/>
 
@@ -47,23 +47,29 @@ En **Mis álbumes** usted verá que cada álbum tiene sus propias herramientas d
 - Me gusta
 - Compartir
 
-### Editar álbum
+## Editar álbum (E)
 
-Al dar click en **Editar**, ud podrá personalizar:
+Al dar click en **Editar** o al presionar la tecla **E**, ud podrá personalizar:
 
 - Nombre
 - Descripción
-- Privacidad / Password
+- Privacidad
 
 <img class="media-screen" src="../../src/manual/settings/user/actions/edit-album.png" width="400"/>
 
-## Acciones para imágenes del álbum
+## Portada de álbum/Cover (H)
+
+Para seleccionar una imagen para portada de su álbum (cover), click a la imagen de su preferencia y baje hasta la información de la imagen. Encontrará la opción de cover junto al ícono de descarga. Click o use el atajo **H** para seleccionar como cover.
+
+<img class="media-screen" src="../../src/manual/settings/user/actions/cover.png" width="400"/>
+
+## Acciones imágenes
 
 Al entrar en un álbum en específico encontrará más acciones y atajos de teclado para administrar su contenido. Podrá subir más imágenes, crear sub álbumes, reorganizar, etc.
 
 <img class="media-screen" src="../../src/manual/settings/user/actions/action-edit-album.png" width="600"/>
 
-Al igual que con los álbumes, seleccione una o más imagenes para activar el menú de acciones a la derecha:
+Al igual que con los álbumes, seleccione una o más imágenes para activar el menú de acciones a la derecha:
 
 ::: details Detalles atajos
 |Acción|Atajo|
@@ -81,9 +87,9 @@ Al igual que con los álbumes, seleccione una o más imagenes para activar el me
 |Compartir|S|
 :::
 
-### Editar imágenes
+## Herramientas para imágenes
 
-Al igual que los álbumes, cada imágen del álbum tiene sus propias herramientas de edición, adyudándole a organizar su contenido de mejor manera.
+Al igual que los álbumes, cada imagen del álbum tiene sus propias herramientas de edición, ayudándole a organizar su contenido de menera sencilla.
 
 <img class="media-screen" src="../../src/manual/settings/user/actions/img.png" width="500"/>
 
@@ -96,11 +102,15 @@ Al igual que los álbumes, cada imágen del álbum tiene sus propias herramienta
 - Marca de contenido
 - Seleccionar
 
-**2. Esquina inferior izquiera:**
+**2. Esquina inferior izquierda:**
 
-- Título de imágen
+- Título de imagen
 
 **3. Esquina inferior derecha:**
 
 - Me gusta
 - Compartir
+
+:::tip
+👉🏻  [Información de imagen]()
+:::

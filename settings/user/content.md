@@ -15,6 +15,12 @@ En cada sección ud podrá navegar según el orden que ud prefiera:
 - A-Z
 - Usuarios top (solo en seguidores y seguidos)
 
+## Notificaciones
+
+Las notificaciones son alertas instantáneas desencadenadas por la actividad de las redes. Encuentre las notificaciones en la parte superior derecha, al lado del ícono del perfil del usuario.
+
+<img class="media-screen" src="../../src/manual/explorer/explorer/notification.png" width="400"/>
+
 ## Mi perfil
 
 En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
@@ -26,9 +32,15 @@ En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
 
 <img class="media-screen" src="../../src/manual/settings/user/content/user-album.png" width="600"/>
 
+## Búscador
+
+Encuentre de manera sencilla las imágenes subidas usando el buscador del perfil de usuario.
+
+<img class="media-screen" src="../../src/manual/settings/user/content/search.png" width="400"/>
+
 ### Acciones
 
-Las **Acciones** se activarán al seleccionar uno o más álbumes.
+Las **Acciones** le permiten organizar su contenido. Estas se activarán al seleccionar uno o más álbumes.
 
 También puede acceder a estas opciones mediante atajos de teclado los cuales se muestran al costado derecho en el menú.
 
