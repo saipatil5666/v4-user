@@ -1,19 +1,8 @@
 # Contenido del perfil
 
-Como usuario ud podrá editar y organizar sus *Albumes* (e imágenes), *Me gusta*, *Seguidos* y *Seguidores*.
-
-Para ello, click al ícono de usuario en la barra superior y seleccione la opción que requiera.
+Click en el ícono del usuario para acceder a su contenido y preferencias:
 
 <img class="media-screen" src="../../src/manual/settings/user/content/user-content.png" width="400"/>
-
-En cada sección ud podrá navegar según el orden que ud prefiera:
-
-- Más reciente
-- Más antiguo
-- Más visto
-- Más me gusta
-- A-Z
-- Usuarios top (solo en seguidores y seguidos)
 
 ## Notificaciones
 
@@ -25,27 +14,41 @@ Las notificaciones son alertas instantáneas desencadenadas por la actividad de 
 
 En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
 
-## Álbum
+<img class="media-screen" src="../../src/manual/settings/user/content/order.png" width="400"/>
 
-- Para acceder o editar sus álbumes, click en el ícono de usuario y luego click en **Álbumes**
-- Seleccione el álbum y click en **Acciones**
+En cada sección ud podrá ordenar según:
 
-<img class="media-screen" src="../../src/manual/settings/user/content/user-album.png" width="600"/>
+- Más reciente
+- Más antiguo
+- Más visto
+- Más me gusta
+- A-Z
+- Usuarios top (solo en seguidores y seguidos)
 
 ## Búscador
 
-Encuentre de manera sencilla las imágenes subidas usando el buscador del perfil de usuario.
+Para encontrar imágenes directamente, use el buscador del perfil de usuario.
 
 <img class="media-screen" src="../../src/manual/settings/user/content/search.png" width="400"/>
 
+## Álbum
+
+Para acceder o editar sus álbumes:
+
+- Click en el ícono de usuario y luego click en **Álbumes**
+- Seleccione uno o más álbumes a editar
+- Edite de manera individual o masiva con la ayuda del menú acciones de la derecha.
+
+<img class="media-screen" src="../../src/manual/settings/user/content/user-album.png" width="600"/>
+
 ### Acciones
 
-Las **Acciones** le permiten organizar su contenido. Estas se activarán al seleccionar uno o más álbumes.
+Al seleccionar uno o más álbumes se activarán las **Acciones** que ayudarán al usuario a organizar su contenido.
 
 También puede acceder a estas opciones mediante atajos de teclado los cuales se muestran al costado derecho en el menú.
 
 ::: tip Aprenda más
-Visite 👉🏻 [La sección Actions](actions.md) para más detalles
+Visite 👉🏻 [La sección Acciones](actions.md) para más detalles
 :::
 
 ## Me gusta

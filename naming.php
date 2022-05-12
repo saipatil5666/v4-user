@@ -2,7 +2,7 @@
 
 return [
     'explorer/' => '👁 Explore',
-    'features/' => '⭐️ Caracteristicas',
+    'features/' => '⭐️ Características',
     'get-started/' => '🚀 Empieza',
     'settings/' => '🔑 Ajustes',
     'upload/' => '📥 Subir imagen',

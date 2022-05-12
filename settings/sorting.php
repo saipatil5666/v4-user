@@ -2,5 +2,5 @@
 
 return [
     'account/',
-    'user/'    
+    'user/',
 ];
