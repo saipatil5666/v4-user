@@ -15,7 +15,7 @@ Estas imágenes se clasifican en distintos listados:
 
 ## Navegue con tajos de teclado
 
-Explore las imágenes a imagen completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
+Explore las imágenes a patanlla completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
 
 <img class="media-screen" src="../src/manual/explorer/explorer/nav-atajo.png" width="600"/>
 
@@ -60,12 +60,6 @@ Bajo la imagen y la izquierda encontrará el avatar del usuario, el título de l
 
 <img class="media-screen" src="../src/manual/explorer/explorer/edit-del.png" width="400"/>
 
-### Editar imagen
-
-Click en editar para abrir la siguiente ventana:
-
-<img class="media-screen" src="../src/manual/explorer/explorer/edit.png" width="500"/>
-
 ## Enlaces directos/Urls
 
 Un poco más abajo podrá obtener los enlaces directos y saber más **Acerca** de la imagen.
@@ -83,3 +77,6 @@ Las categorías clasifican las imágenes cargadas y generan listados basados ​
 <img class="media-screen" src="../src/manual/explorer/explorer/random.png" width="400"/>
 
 Para exlorar el sitio de manera aleatoria, click al botom **Random**
+
+::: tip
+Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](../settings/user/actions.md)
