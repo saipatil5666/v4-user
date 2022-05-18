@@ -1,4 +1,5 @@
 # Api
+
 La API funciona con clave de usuario la cual está disponible de manera directa en `/settings/api.`
 
 ::: tip API

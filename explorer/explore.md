@@ -13,21 +13,28 @@ Estas imágenes se clasifican en distintos listados:
 
 <img class="media-screen" src="../src/manual/explorer/explorer/exp-all.png" width="400"/>
 
-## Navegue con tajos de teclado
+## Atajos de teclado
 
 Explore las imágenes a patanlla completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
 
-<img class="media-screen" src="../src/manual/explorer/explorer/nav-atajo.png" width="600"/>
-
-## Información de imagen
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../src/manual/explorer/explorer/explore.webm" type="video/webm">
+</video>
 
 ::: tip Recuerde
-Para que las opciones de imagen estén disponibles, usted debe estar logeado en el sitio.
+Las herramientas de edición están disponibles para los usuarios registrados
 :::
 
-Al hacer click en una imagen tendrá acceso a información detallada de esta:
+Click en la imagen y obtendrá su información y detalles:
 
 <img class="media-screen" src="../src/manual/explorer/explorer/img-info.png" width="800"/>
+
+## Información
+
+Bajo la imagen y la izquierda encontrará el avatar del usuario, el título de la imagen, álbum al que pertenece y hace cuanto se subió.
+
+<img class="media-screen" src="../src/manual/explorer/explorer/edit-del.png" width="400"/>
+
 
 ### Miniaturas contenido del álbum
 
@@ -44,21 +51,9 @@ Bajo la imagen y a la derecha se encuentran los botones:
 - Me gusta
 - Compartir
 
-Y más abajo el número de visualizaciones:
+Un poco más abajo el número de visualizaciones:
 
 <img class="media-screen" src="../src/manual/explorer/explorer/botones.png" width="400"/>
-
-### Compartir con redes:
-
-Para compartir por redes, click en el botón **Compartir**
-
-<img class="media-screen" src="../src/manual/explorer/explorer/share.png" width="500"/>
-
-## Editar/Eliminar
-
-Bajo la imagen y la izquierda encontrará el avatar del usuario, el título de la imagen, álbum al que pertenece y hace cuanto se subió.
-
-<img class="media-screen" src="../src/manual/explorer/explorer/edit-del.png" width="400"/>
 
 ## Enlaces directos/Urls
 

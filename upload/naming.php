@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'upload.md' => 'Upload',
+    'upload.md' => '📸 Subir imágenes',
 ];

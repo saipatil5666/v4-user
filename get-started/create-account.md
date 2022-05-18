@@ -19,7 +19,7 @@ Algunos sitios pueden requerir confirmación vía email, esto dependerá del adm
 
 ## Ingresar - Log in
 
-Para volver a entrar en la cuenta, simplemente dar click al botón **Entrar** que se encuentra en la parte superior derecha e ingrese sus datos en la ventana emergente que aparecerá en pantalla.
+Para volver a entrar en la cuenta, simplemente click al botón **Entrar** que se encuentra en la parte superior derecha e ingrese sus datos en la ventana emergente que aparecerá en pantalla.
 
 <img class="media-screen" src="../src/manual/get-started/login.png" width="400"/>
 
@@ -28,7 +28,7 @@ Para volver a entrar en la cuenta, simplemente dar click al botón **Entrar** qu
 En el caso de olvidar contraseña, click a **Recuperar contraseña** que aparece en la misma ventana luego introduzca su nombre de usuario o e-mail.
 
 ::: tip Sugerido
-[¿Cómo subir contenido? 🤔](../upload/upload.md)
+[¿Cómo subir contenido?](../upload/upload.md)
 
-[¿Cómo personalizar perfil? 🪄](../settings/README.md)
+[¿Cómo personalizar perfil?](../settings/README.md)
 :::

@@ -8,7 +8,7 @@ Click en el ícono del usuario para acceder a su contenido y preferencias:
 
 Las notificaciones son alertas instantáneas desencadenadas por la actividad de las redes. Encuentre las notificaciones en la parte superior derecha, al lado del ícono del perfil del usuario.
 
-<img class="media-screen" src="../../src/manual/explorer/explorer/notification.png" width="400"/>
+<img class="media-screen" src="../../src/manual/settings/user/content/notification-ex.png" width="400"/>
 
 ## Mi perfil
 
@@ -61,10 +61,10 @@ Imágenes a las cuales le has dado **Me gusta**
 
 Usuarios que sigues
 
-<img class="media-screen" src="../../src/manual/settings/user/content/user-following.png" width="500"/>
+<img class="media-screen" src="../../src/manual/settings/user/content/following.png" width="500"/>
 
 ## Seguidores
 
 Usuarios que te siguen
 
-<img class="media-screen" src="../../src/manual/settings/user/content/user-followers.png" width="400"/>
+<img class="media-screen" src="../../src/manual/settings/user/content/followers.png" width="400"/>

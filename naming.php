@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'actions/' => '🪄 Acciones',
     'explorer/' => '👁 Explore',
     'features/' => '⭐️ Características',
     'get-started/' => '🚀 Empieza',
