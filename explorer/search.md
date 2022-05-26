@@ -10,6 +10,8 @@ En la topbar encontrará una lupa 🔍 en donde podrá realizar las búsquedas:
 
 ## Modo avanzado
 
+### Busqueda específica por palabras, frases, etc.
+
 Click al engranaje ⚙️ para abrir la ventana de búsqueda avanzada:
 
 <img class="media-screen" src="../src/manual/explorer/search/search-avz.png" width="500"/>

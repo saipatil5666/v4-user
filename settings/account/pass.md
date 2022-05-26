@@ -1,6 +1,8 @@
 # Contraseña/Password
 
-Acceda directamente `/settings/password` o click en **Ajustes**, luego en la pestaña **Contraseña**.
+`/settings/password` 
+
+- Click en **Ajustes**, luego en la pestaña **Contraseña**.
 
 <img class="media-screen" src="../../src/manual/settings/account/set-pass.png" width="500"/>
 

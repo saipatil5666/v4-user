@@ -6,6 +6,6 @@ return [
     'features/' => '⭐️ Características',
     'get-started/' => '🚀 Empieza',
     'settings/' => '🔑 Ajustes',
-    'upload/' => '📥 Subir imagen',
+    'upload/' => '🆙 Subir imagen',
     'README.md' => 'User Manual',
 ];

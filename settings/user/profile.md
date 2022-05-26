@@ -1,6 +1,6 @@
 # Personalizar perfil
 
-Acceda directamente desde `/settings/profile`
+## `/settings/profile`
 
 ## Editar perfil
 
@@ -16,7 +16,7 @@ Cofigure la privacidad de la cuenta:
 
 <img class="media-screen" src="../../src/manual/settings/user/profile/privacy.png" width="400"/>
 
-Por defecto, este viene desactivado.
+Por defecto viene desactivado.
 
 ### Nombre
 

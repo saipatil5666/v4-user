@@ -1,10 +1,12 @@
 # Cuenta
 
+## `/settings`
+
 <img class="media-screen" src="../../src/manual/settings/account/set-account.png" width="500"/>
 
-Complete o actualice los datos:
+## Complete o actualice los datos:
 
-### Nombre de usuario/Username
+### Nombre de usuario
 
 El nombre de usuario será el cual servirá para identidicar la cuenta.
 

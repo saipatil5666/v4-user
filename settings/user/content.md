@@ -2,6 +2,12 @@
 
 Click en el ícono del usuario para acceder a su contenido y preferencias:
 
+- Mi perfil
+- Álbumes
+- Me gusta
+- Siguiendo
+- Seguidores
+
 <img class="media-screen" src="../../src/manual/settings/user/content/user-content.png" width="400"/>
 
 ## Notificaciones
@@ -48,7 +54,7 @@ Al seleccionar uno o más álbumes se activarán las **Acciones** que ayudarán 
 También puede acceder a estas opciones mediante atajos de teclado los cuales se muestran al costado derecho en el menú.
 
 ::: tip Aprenda más
-Visite 👉🏻 [La sección Acciones](actions.md) para más detalles
+Visite 👉🏻 [La sección Acciones](../../actions/actions.md) para más detalles
 :::
 
 ## Me gusta

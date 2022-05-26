@@ -57,7 +57,7 @@ Un poco más abajo el número de visualizaciones:
 
 ## Enlaces directos/Urls
 
-Un poco más abajo podrá obtener los enlaces directos y saber más **Acerca** de la imagen.
+Bajo la información se encuentran los enlaces directos y más **Acerca** de la imagen.
 
 <img class="media-screen" src="../src/manual/explorer/explorer/url.png" width="600"/>
 
@@ -74,4 +74,4 @@ Las categorías clasifican las imágenes cargadas y generan listados basados ​
 Para exlorar el sitio de manera aleatoria, click al botom **Random**
 
 ::: tip
-Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](../settings/user/actions.md)
+Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](../actions/actions.md)
