@@ -1,0 +1,18 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://vuepress.vuejs.org/config/#index-styl
+ */
+.float-left {
+  float: left;
+}
+.margin-right-1em {
+  margin-right: 1em;
+}
+h1 + .media-screen,
+h2 + .media-screen,
+h3 + .media-screen,
+h4 + .media-screen {
+  margin-top: 1em;
+  display: block;
+}

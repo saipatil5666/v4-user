@@ -1,4 +1,4 @@
-# Explore
+# 🧭 Explorar
 
 <img class="media-screen" src="../src/manual/explorer/explorer/explorer.png" width="400"/>
 
@@ -15,15 +15,11 @@ Estas imágenes se clasifican en distintos listados:
 
 ## Atajos de teclado
 
-Explore las imágenes a patanlla completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
+Explore las imágenes a pantalla completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
 
 <video class="media-screen" width="100%" controls autoplay>
     <source src="../src/manual/explorer/explorer/explore.webm" type="video/webm">
 </video>
-
-::: tip Recuerde
-Las herramientas de edición están disponibles para los usuarios registrados
-:::
 
 Click en la imagen y obtendrá su información y detalles:
 
@@ -34,7 +30,6 @@ Click en la imagen y obtendrá su información y detalles:
 Bajo la imagen y la izquierda encontrará el avatar del usuario, el título de la imagen, álbum al que pertenece y hace cuanto se subió.
 
 <img class="media-screen" src="../src/manual/explorer/explorer/edit-del.png" width="400"/>
-
 
 ### Miniaturas contenido del álbum
 
@@ -71,7 +66,7 @@ Las categorías clasifican las imágenes cargadas y generan listados basados ​
 
 <img class="media-screen" src="../src/manual/explorer/explorer/random.png" width="400"/>
 
-Para exlorar el sitio de manera aleatoria, click al botom **Random**
+Para explorar el sitio de manera aleatoria, click al botón **Random**
 
 ::: tip
 Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](../actions/actions.md)

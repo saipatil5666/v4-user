@@ -1,6 +1,4 @@
-# Settings
-
- `/settings`
+# ⚙️ User settings
 
 Paso a paso para acceder a los ajustes de cuenta:
 
@@ -12,16 +10,3 @@ Paso a paso para acceder a los ajustes de cuenta:
 También puede acceder desde el botón **Editar** que se encuentra en el perfil, junto al avatar de usuario.
 
 <img class="media-screen" src="../src/manual/settings/account/set-edit.png" width="400"/>
-
----
-
-En la parte superior de los ajustes de usuario encontrará tres pestañas:
-
-- [Cuenta](account/account.md)
-- [Perfil](user/profile.md)
-- [Contraseña](account/pass.md)
-- [Api](account/api.md)
-
-<img class="media-screen" src="../src/manual/settings/settings.png" width="600"/>
-
-Revise el menú a la izquierda para obtener más información.

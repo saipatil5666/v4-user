@@ -1,6 +1,8 @@
 <?php
 
 return [
-    'account/' => '🖥 Cuenta',
-    'user/' => '🧑🏽 Usuario',
+    'account.md' => '🆔 Cuenta',
+    'profile.md' => '🤙 Perfil',
+    'password.md' => '🔑 Contraseña',
+    'api.md' => '🖼 API',
 ];

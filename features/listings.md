@@ -2,7 +2,7 @@
 sidebarDepth: 1
 ---
 
-# Acciones
+# 🕹 Listings
 
 Las acciones permiten al usuario administrar todo su contenido. Puede editar de manera masiva dando click en **Todo**, selectivamente dando click derecho en la imagen o arrastrando el cursor para seleccionar varias a la vez:
 
@@ -17,6 +17,7 @@ En su perfil usted verá que cada álbum o imagen tiene sus propias herramientas
 <img class="media-screen" src="../src/manual/settings/user/actions/album.png" width="500"/>
 
 :::details Click aquí para más detalles:
+
 ### Álbumes
 
 **1. Superior:**
@@ -26,7 +27,7 @@ En su perfil usted verá que cada álbum o imagen tiene sus propias herramientas
 - Editar
 - Seleccionar
 
-**2. Esquina inferior izquiera:**
+**2. Esquina inferior izquierda:**
 
 - Nombre del álbum
 - Cantidad de imágenes
@@ -67,17 +68,17 @@ En su perfil usted verá que cada álbum o imagen tiene sus propias herramientas
 
 ## Atajos para álbumes
 
-|Acción|Atajo|
-|--------|---------|
-|Crear álbum|A|
-|Editar álbum|E|
-|Trasladar a álbum|M|
-|Subir al álbum|P|
-|Compartir álbum|S|
-|Eliminar|Del|
-|Seleccionar todo|.|
-|Limpiar selección|Z|
-|Crear sub álbum|J|
+| Acción            | Atajo |
+| ----------------- | ----- |
+| Crear álbum       | A     |
+| Editar álbum      | E     |
+| Trasladar a álbum | M     |
+| Subir al álbum    | P     |
+| Compartir álbum   | S     |
+| Eliminar          | Del   |
+| Seleccionar todo  | .     |
+| Limpiar selección | Z     |
+| Crear sub álbum   | J     |
 
 ---
 
@@ -155,7 +156,7 @@ Una vez creado el nuevo sub álbum, puede agregar más imágenes (P) o mover las
 
 ## Acciones imágenes
 
-Al entrar en un álbum en específico encontrará más acciones y atajos de teclado para administrar su contenido. 
+Al entrar en un álbum en específico encontrará más acciones y atajos de teclado para administrar su contenido.
 
 <img class="media-screen" src="../src/manual/settings/user/actions/action-edit-album.png" width="800"/>
 
@@ -163,18 +164,18 @@ Al entrar en un álbum en específico encontrará más acciones y atajos de tecl
 
 Al igual que con los álbumes, seleccione una o más imágenes para activar el menú de acciones a la derecha:
 
-|Acción|Atajo|
-|--------|---------|
-|Obtener códigos|K|
-|Crear álbum|A|
-|Trasladar a álbum|M|
-|Asignar categoría|C|
-|Marcar como no segura|F|
-|Eliminar|Del|
-|Seleccionar todo|.|
-|Limpiar selección|Z|
-|Me gusta|L|
-|Compartir|S|
+| Acción                | Atajo |
+| --------------------- | ----- |
+| Obtener códigos       | K     |
+| Crear álbum           | A     |
+| Trasladar a álbum     | M     |
+| Asignar categoría     | C     |
+| Marcar como no segura | F     |
+| Eliminar              | Del   |
+| Seleccionar todo      | .     |
+| Limpiar selección     | Z     |
+| Me gusta              | L     |
+| Compartir             | S     |
 
 Varias acciones son iguales a las de los álbumes, a continuación se detallan las que son únicas para imágenes que se listan en el álbum:
 

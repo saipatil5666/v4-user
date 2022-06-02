@@ -1,4 +1,4 @@
-# Upload
+# Media upload
 
 ## Formatos soportados
 

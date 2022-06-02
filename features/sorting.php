@@ -1,6 +1,8 @@
 <?php
 
 return [
-    'pup.md',
-    'sharex.md'
+    'media-upload.md',
+    'explore.md',
+    'search.md',
+    'listings.md',
 ];

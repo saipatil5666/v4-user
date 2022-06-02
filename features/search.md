@@ -1,4 +1,4 @@
-# Búesqueda
+# 🔍 Búsqueda
 
 <img class="media-screen" src="../src/manual/explorer/search/search.png" width="400"/>
 
@@ -10,7 +10,7 @@ En la topbar encontrará una lupa 🔍 en donde podrá realizar las búsquedas:
 
 ## Modo avanzado
 
-### Busqueda específica por palabras, frases, etc.
+### Búsqueda específica por palabras claves
 
 Click al engranaje ⚙️ para abrir la ventana de búsqueda avanzada:
 
