@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.svg
 heroText: V4 User Manual
-tagline: Documentation for administrators of Chevereto V4 based systems
+tagline: Documentation for users of Chevereto V4 based systems
 # actionText: Dashboard →
 # actionLink: /dashboard/
 footer: User's Manual for Chevereto V4
