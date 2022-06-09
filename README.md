@@ -17,5 +17,5 @@ Not an user? You can check the [Chevereto V4 admin's manual](https://v4-admin.ch
 ## Links
 
 * [Website](https://chevereto.com/)
-* [Community](https://chevereto.com/community/)
+* [Docs](https://v4-docs.chevereto.com/)
 * [Releases](https://releases.chevereto.com/)
