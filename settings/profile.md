@@ -51,7 +51,7 @@ Para cambiar el fondo de perfil, diríjase a su perfil:
 ## Paletas
 
 ::: warning Login necesario
-Las paletas están disponibles solo si estás ingresado
+Las paletas están disponibles para usuarios registrados
 :::
 
 Para cambiar la paleta de colores del sistema, puede hacerlo directamente dando click en su perfil:

@@ -12,9 +12,11 @@ Las notificaciones son alertas instantáneas desencadenadas por la actividad de 
 
 ## Mi perfil
 
+<img class="media-screen" src="../src/manual/settings/user/content/my-profile.png" width="600"/>
+
 En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
 
-<img class="media-screen" src="../src/manual/settings/user/content/order.png" width="400"/>
+<img class="media-screen" src="../src/manual/settings/user/content/order.png" width="600"/>
 
 En cada sección ud podrá ordenar según:
 
@@ -36,8 +38,7 @@ Para buscar imágenes subidas por el usuario, use el buscador del perfil de usua
 Para acceder o editar sus álbumes:
 
 - Click en el ícono de usuario y luego click en **Álbumes**
-- Seleccione uno o más álbumes a editar
-- Edite de manera individual o masiva con la ayuda del menú acciones de la derecha.
+- Seleccione uno o más álbumes a editar. Puede editar de manera individual con las herramientas de cada álbum o masiva con la ayuda del menú acciones de la derecha.
 
 <img class="media-screen" src="../src/manual/settings/user/content/user-album.png" width="600"/>
 
@@ -59,12 +60,12 @@ Imágenes a las cuales le has dado **Me gusta**
 
 ## Siguiendo
 
-Usuarios que sigues
+Usuarios que sigue
 
 <img class="media-screen" src="../src/manual/settings/user/content/following.png" width="500"/>
 
 ## Seguidores
 
-Usuarios que te siguen
+Usuarios que le siguen
 
 <img class="media-screen" src="../src/manual/settings/user/content/followers.png" width="400"/>

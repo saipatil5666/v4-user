@@ -4,10 +4,24 @@ sidebar: false
 
 # 🔑 Ingresar
 
-Para volver a entrar en la cuenta, simplemente click al botón **Entrar** que se encuentra en la parte superior derecha e ingrese sus datos en la ventana emergente que aparecerá en pantalla.
+<img class="media-screen" src="../src/screen/entrar.png" width="400"/>
+
+1. Click en **Entrar** en la barra superior
+2. Complete los campos
+3. Ingrese la contraseña
+4. Click en la flecha o enter
 
 <img class="media-screen" src="../src/screen/login.png" width="400"/>
 
 ## 🤦‍♂️ Recuperar contraseña
 
-En el caso de olvidar contraseña, click a **Recuperar contraseña** que aparece en la misma ventana luego introduzca su nombre de usuario o e-mail.
+1. Click en **Entrar** en la barra superior
+2. Click en **Recuperar contraseña**
+3. Introduzca su nombre de usuario o e-mail para continuar
+4. Envíe
+
+<img class="media-screen" src="../src/screen/forgot.png" width="400"/>
+
+:::warning Revise su correo
+Es posible que tenga que revisar su carpeta de correo no deseado o agregue Chevereto a su lista blanca.
+:::
