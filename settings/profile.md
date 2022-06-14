@@ -36,11 +36,11 @@ Actualice su bio:
 
 ## Background
 
-Para cambiar el fondo de perfil, diríjase a su perfil:
+Para cambiar el fondo de perfil:
 
-- Click en el ícono de usuario ubicado en la topbar y luego click en **Mi Perfil**.
-- Bajo el logo del sitio encontrará el botón **Subir fondo de perfil**.
-- Seleccione su fondo.
+1. Click en el ícono de usuario ubicado en la topbar y luego click en **Mi Perfil**.
+2. Bajo el logo del sitio y a la derecha encontrará el botón **Subir fondo de perfil**.
+3. Seleccione su fondo.
 
 <img class="media-screen" src="../src/manual/settings/user/profile/background.png" width="600"/>
 
