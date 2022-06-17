@@ -7,9 +7,8 @@ sidebar: false
 <img class="media-screen" src="../src/screen/entrar.png" width="400"/>
 
 1. Click en **Entrar** en la barra superior
-2. Complete los campos
-3. Ingrese la contraseña
-4. Click en la flecha o enter
+2. Complete los campos e ingrese contraseña
+3. Click en la flecha o presione enter
 
 <img class="media-screen" src="../src/screen/login.png" width="400"/>
 

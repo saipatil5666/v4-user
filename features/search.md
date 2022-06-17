@@ -18,6 +18,6 @@ Click al engranaje ⚙️ para abrir la ventana de búsqueda avanzada:
 
 ## Búsqueda en perfil de usuario
 
-Para encontrar imágenes de un usuario en específico, vaya al perfil y use el buscador del perfil. Para más detalles vea la sección 👉🏻 [Contenido del usuario](../settings/user/content.md)
+Para encontrar imágenes de un usuario en específico, vaya al perfil y use el buscador del perfil. Para más detalles vea la sección 👉🏻 [Perfil del usuario](../settings/user/../../account/user-profile.md)
 
 <img class="media-screen" src="../src/manual/settings/user/content/search.png" width="400"/>

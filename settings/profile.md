@@ -2,6 +2,8 @@
 
 `/settings/profile`
 
+<img class="media-screen" src="../src/manual/settings/account/profile.png" width="800"/>
+
 ## Avatar
 
 Suba o actualice su avatar:
@@ -39,7 +41,7 @@ Actualice su bio:
 Para cambiar el fondo de perfil:
 
 1. Click en el ícono de usuario ubicado en la topbar y luego click en **Mi Perfil**.
-2. Bajo el logo del sitio y a la derecha encontrará el botón **Subir fondo de perfil**.
+2. Bajo el logo del sitio encontrará el botón **Subir fondo de perfil**.
 3. Seleccione su fondo.
 
 <img class="media-screen" src="../src/manual/settings/user/profile/background.png" width="600"/>
@@ -54,6 +56,8 @@ Para cambiar el fondo de perfil:
 Las paletas están disponibles para usuarios registrados
 :::
 
-Para cambiar la paleta de colores del sistema, puede hacerlo directamente dando click en su perfil:
+Para cambiar la paleta de colores del sistema, puede hacerlo directamente en su perfil:
 
-<img class="media-screen" src="../src/manual/settings/user/profile/palette.png" width="500"/>
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../src/manual/settings/account/paletas.webm" type="video/webm">
+</video>

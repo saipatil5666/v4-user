@@ -69,4 +69,4 @@ Las categorías clasifican las imágenes cargadas y generan listados basados ​
 Para explorar el sitio de manera aleatoria, click al botón **Random**
 
 ::: tip
-Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](../actions/actions.md)
+Aprenda más sobre 👉🏻 [Acciones y atajos de teclado](listings.md)

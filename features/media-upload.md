@@ -45,6 +45,10 @@ Al hacer click, se abrirá una ventana en donde usted podrá editar:
 
 ## Subir mediante URL
 
+::: warning Ojo 👀
+La subida mediante URL podría estar desabilitados por el administrador del sistema.
+:::
+
 Suba sus imágenes mediante url de la misma manera que cualquier otra imagen.
 
 - Click en el botón **Subir** ubicado en la barra superior.
@@ -56,11 +60,6 @@ Suba sus imágenes mediante url de la misma manera que cualquier otra imagen.
     <source src="../src/manual/upload/addurl.webm" type="video/webm">
 </video>
 
-::: warning Ojo 👀
-La subida mediante URL podría estar desabilitados por el administrador del sistema.
-:::
-
-
 ::: tip Sugerencia
-👉🏻 [Personalice la cuenta de usuario](../settings/user/profile.md)
+👉🏻 [Personalice la cuenta de usuario](../account/user-profile.md)
 :::

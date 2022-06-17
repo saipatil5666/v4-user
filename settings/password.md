@@ -6,6 +6,8 @@ sidebar: false
 
 `/settings/password`
 
+<img class="media-screen" src="../src/manual/settings/account/pass.png" width="800"/>
+
 - Click en **Ajustes**, luego en la pestaña **Contraseña**.
 
 <img class="media-screen" src="../src/manual/settings/account/set-pass.png" width="500"/>

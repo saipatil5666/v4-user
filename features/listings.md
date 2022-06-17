@@ -12,51 +12,19 @@ Las acciones permiten al usuario administrar todo su contenido. Puede editar de 
 
 ## Herramientas edición individual
 
-En su perfil usted verá que cada álbum o imagen tiene sus propias herramientas e información (editar, eliminar, N° de imágenes, etc).
+Cada álbum o imagen tiene sus propias herramientas e información:
 
-<img class="media-screen" src="../src/manual/settings/user/actions/album.png" width="500"/>
-
-:::details Click aquí para más detalles:
-
-### Álbumes
-
-**1. Superior:**
-
+- Título
 - Eliminar
 - Trasladar
 - Editar
+- Marca de contenido (imágenes)
 - Seleccionar
-
-**2. Esquina inferior izquierda:**
-
-- Nombre del álbum
-- Cantidad de imágenes
-
-**3. Esquina inferior derecha:**
-
 - Me gusta
 - Compartir
+- Cantidad de imágenes (álbumes)
 
-### Imágenes
-
-**1. Superior:**
-
-- Eliminar
-- Crear álbum
-- Trasladar
-- Editar
-- Marca de contenido
-- Seleccionar
-
-**2. Esquina inferior izquierda:**
-
-- Título de imagen
-
-**3. Esquina inferior derecha:**
-
-- Me gusta
-- Compartir
-:::
+<img class="media-screen" src="../src/manual/settings/user/actions/tools-img.png" width="500"/>
 
 ## Acciones álbumes
 
@@ -143,12 +111,12 @@ Encuentre los álbumes anidados bajo la descripción del álbum, en la pestaña 
 Una vez creado el nuevo sub álbum, puede agregar más imágenes (P) o mover las existentes desde otro álbum (M).
 
 <video class="media-screen" width="100%" controls autoplay>
-    <source src="../src/manual/settings/user/content/sub-album.webm" type="video/webm">
+    <source src="../src/manual/settings/user/actions/sub-album.webm" type="video/webm">
 </video>
 
 ### Portada de álbum/Cover (H)
 
-- Para seleccionar una imagen para portada del álbum (cover), click a la imagen de su preferencia y baje hasta la información de la imagen. Encontrará la opción de cover junto al ícono de descarga. Click o use el atajo **H** para seleccionar como cover.
+- Para seleccionar una imagen para portada del álbum (cover), click a la imagen de su preferencia y baje hasta la información. Encontrará la opción de cover junto al ícono de descarga. Click o use el atajo **H** para seleccionar como cover.
 
 <img class="media-screen" src="../src/manual/settings/user/actions/cover.png" width="400"/>
 
@@ -177,7 +145,7 @@ Al igual que con los álbumes, seleccione una o más imágenes para activar el m
 | Me gusta              | L     |
 | Compartir             | S     |
 
-Varias acciones son iguales a las de los álbumes, a continuación se detallan las que son únicas para imágenes que se listan en el álbum:
+Varias acciones son iguales a las de los álbumes, a continuación se detallan las que son únicas para imágenes:
 
 ### Obtener códigos (K)
 

@@ -1,6 +1,6 @@
 # ⚙️ User settings
 
-Paso a paso para acceder a los ajustes de cuenta:
+Para acceder a los ajustes de cuenta:
 
 1. Click en el ícono de usuario ubicado en la topbar.
 2. Click en **Ajustes**

@@ -2,7 +2,7 @@
 
 `/settings`
 
-<img class="media-screen" src="../src/manual/settings/account/set-account.png" width="500"/>
+<img class="media-screen" src="../src/manual/settings/account/set-account.png" width="800"/>
 
 ## Nombre de usuario
 

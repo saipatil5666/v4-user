@@ -12,13 +12,13 @@ Las notificaciones son alertas instantáneas desencadenadas por la actividad de 
 
 ## Mi perfil
 
-<img class="media-screen" src="../src/manual/settings/user/content/my-profile.png" width="600"/>
-
 En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
 
-<img class="media-screen" src="../src/manual/settings/user/content/order.png" width="600"/>
+<img class="media-screen" src="../src/manual/settings/user/content/my-profile.png" width="600"/>
 
 En cada sección ud podrá ordenar según:
+
+<img class="media-screen" src="../src/manual/settings/user/content/order.png" width="600"/>
 
 - Más reciente
 - Más antiguo
@@ -27,7 +27,7 @@ En cada sección ud podrá ordenar según:
 - A-Z
 - Usuarios top (solo en seguidores y seguidos)
 
-## Búsqueda
+### Búsqueda
 
 Para buscar imágenes subidas por el usuario, use el buscador del perfil de usuario.
 
@@ -38,11 +38,12 @@ Para buscar imágenes subidas por el usuario, use el buscador del perfil de usua
 Para acceder o editar sus álbumes:
 
 - Click en el ícono de usuario y luego click en **Álbumes**
-- Seleccione uno o más álbumes a editar. Puede editar de manera individual con las herramientas de cada álbum o masiva con la ayuda del menú acciones de la derecha.
+
+Puede seleccione uno o más álbumes, editarlos de manera individual con las herramientas de cada álbum, o de manera masiva con la ayuda del menú acciones de la derecha.
 
 <img class="media-screen" src="../src/manual/settings/user/content/user-album.png" width="600"/>
 
-### Acciones
+**Acciones**
 
 Al seleccionar uno o más álbumes se activarán las **Acciones de listado** que ayudarán al usuario a organizar su contenido.
 
@@ -52,20 +53,22 @@ También puede acceder a estas opciones mediante atajos de teclado los cuales se
 Visite 👉🏻 [Listados](../features/listings.md) para más detalles
 :::
 
-## Me gusta
+## Características sociales
 
-Imágenes a las cuales le has dado **Me gusta**
+<video class="media-screen" width="100%" controls autoplay>
+    <source src="../src/manual/settings/user/content/social.webm" type="video/webm">
+</video>
+
+### Me gusta
+
+Sistema "Me gusta" / "No me gusta" con un click para imágenes y álbumes. Disponible en listados y en visor de imágenes.
+
+El contenido que le gusta se almacena en la lista de "me gusta" del usuario.
 
 <img class="media-screen" src="../src/manual/settings/user/content/user-liked.png" width="600"/>
 
-## Siguiendo
+### Listas de seguimiento y seguidores del usuario
 
-Usuarios que sigue
+Muestra un listado con el contenido subido por las personas que sigue y otro aparte con sus seguidores.
 
 <img class="media-screen" src="../src/manual/settings/user/content/following.png" width="500"/>
-
-## Seguidores
-
-Usuarios que le siguen
-
-<img class="media-screen" src="../src/manual/settings/user/content/followers.png" width="400"/>
