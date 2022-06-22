@@ -15,25 +15,25 @@ Estas imágenes se clasifican en distintos listados:
 
 ## Atajos de teclado
 
-Explore las imágenes a pantalla completa usando los atajos de teclado. Estos se mostrarán en la parte inferior.
+Explore en el visor de imágenes (pantalla completa) usando los atajos de teclado. Estos se mostrarán en la parte inferior.
 
 <video class="media-screen" width="100%" controls autoplay>
     <source src="../src/manual/explorer/explorer/explore.webm" type="video/webm">
 </video>
 
-Click en la imagen y obtendrá su información y detalles:
+- Click en la imagen y obtendrá su información y detalles:
 
 <img class="media-screen" src="../src/manual/explorer/explorer/img-info.png" width="800"/>
 
-## Información
+## Información y edición
 
-Bajo la imagen y la izquierda encontrará el avatar del usuario, el título de la imagen, álbum al que pertenece y hace cuanto se subió.
+Bajo la foto y la izquierda, se encuentra el título de la imagen, álbum al que pertenece y hace cuanto se subió.
 
 <img class="media-screen" src="../src/manual/explorer/explorer/edit-del.png" width="400"/>
 
 ### Miniaturas contenido del álbum
 
-Las imágenes que pertenecen a un mismo álbum se muestran en miniaturas agrupadas al pie de la imagen. Usted puede navegar por las imágenes del álbum dando click en las miniaturas.
+Las imágenes que pertenecen a un mismo álbum se muestran en miniaturas agrupadas al pie de la imagen. Usted puede navegar por las imágenes del álbum haciendo click en las miniaturas.
 
 <img class="media-screen" src="../src/manual/explorer/explorer/imgs-album.png" width="500"/>
 

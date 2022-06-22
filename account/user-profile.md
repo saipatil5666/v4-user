@@ -6,26 +6,15 @@ Click en el ícono del usuario para acceder a su contenido y preferencias:
 
 ## Notificaciones
 
-Las notificaciones son alertas instantáneas desencadenadas por la actividad de las redes. Encuentre las notificaciones en la parte superior derecha, al lado del ícono del perfil del usuario.
+Encuentre las notificaciones en la parte superior derecha, al lado del ícono del perfil del usuario.
 
 <img class="media-screen" src="../src/manual/settings/user/content/notification-ex.png" width="400"/>
 
 ## Mi perfil
 
-En **Mi perfil** ud tendrá acceso a todo el contenido que ud ha subido
+En **Mi perfil** ud accede a su contenido e información de usuario. Puede organizar y personalizar su perfil según sus preferencias y gustos.
 
 <img class="media-screen" src="../src/manual/settings/user/content/my-profile.png" width="600"/>
-
-En cada sección ud podrá ordenar según:
-
-<img class="media-screen" src="../src/manual/settings/user/content/order.png" width="600"/>
-
-- Más reciente
-- Más antiguo
-- Más visto
-- Más me gusta
-- A-Z
-- Usuarios top (solo en seguidores y seguidos)
 
 ### Búsqueda
 
