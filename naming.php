@@ -1,8 +1,7 @@
 <?php
 
 return [
-    'account/' => '🙂 Cuenta',
-    'features/' => '🥑 Features',
+    'user/' => '🙂 Usuario',
+    'features/' => '🥑 Funcionalidades',
     'integrations/' => '⭐️ Integraciones',
-    'settings/' => '⚙️ Ajustes',
 ];
