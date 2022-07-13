@@ -2,63 +2,68 @@
 
 `/settings`
 
-En esta sección puede ajustar las configuraciones generales de su cuenta.
+En esta sección se pueden ajustar las configuraciones generales de cuenta de usuario.
 
-Para acceder a los ajustes de cuenta:
+## Acceder a ajustes
 
-* Click en el ícono de usuario ubicado en la **barra superior**
+Para acceder a los ajustes de cuenta desde **cualquier lugar**:
+
+* En la barra superior, click en el **Ícono de usuario** (requiere [🔑 Ingreso](../account/login.md))
 * Click en **Ajustes**
 
 <img class="media-screen" src="../../src/manual/settings/account/settings.png" width="400"/>
 
-También puede acceder desde el botón **Editar** que se encuentra en el perfil, junto al avatar de usuario.
+Para acceder desde **perfil de usuario**:
+
+* Click en el botón **Editar**
 
 <img class="media-screen" src="../../src/manual/settings/account/set-edit.png" width="400"/>
 
-
 ## Nombre de usuario
 
-El nombre de usuario será el cual servirá para identificar la cuenta. Este identificador es único por usuario.
+El nombre de usuario es el identificador alfanumérico de la cuenta. Este identificador es único por usuario.
 
 <img class="media-screen" src="../../src/manual/settings/account/username.png" width="500"/>
 
 ## Email
 
-Asegúrese de usar un email válido
+El correo electrónico asociado a la cuenta de usuario. Esta dirección de correo se utilizara para todo tipo de comunicaciones con el usuario.
 
 <img class="media-screen" src="../../src/manual/settings/account/email.png" width="500"/>
 
 ## Auto eliminar subidas
 
-Puede configurar no eliminar o eliminar después de 5 minutos, hasta 1 año.
+Puede configurar la eliminación automatica del contenido subido. El rango va desde 5 minutos, hasta 1 año.
 
 <img class="media-screen" src="../../src/manual/settings/account/autodelete.png" width="500"/>
 
 ## Datos Exif de imagen
 
-Active o desactive datos Exif
+Active o desactive datos **Exif**(*), estos son metadatos contenidos en las imágenes. Cuando esta deshabilitado Chevereto removerá esa información del archivo de imagen.
+
+::: tip 📷 Exif
+Los metadatos Exif brindan información específica sobre las imágenes capturadas por una cámara digital. Incluyendo marca de tiempo, exposición, lugar, etc.
+:::
 
 <img class="media-screen" src="../../src/manual/settings/account/exif.png" width="400"/>
 
-> Los datos Exif brindan información específica sobre las imágenes capturadas por una cámara digital. Los datos que pueden guardar van desde la fecha/hora, exposición, lugar, etc.
-
 ## Ajustes de contenido
 
-Al marcar esta opción, lás imágenes no se mostrarán en el explorador.
+### No mostrar contenido no seguro
+
+Al marcar esta opción lás imágenes NSFW (no seguras para entorno trabajo) no se mostrarán en los listados.
 
 <img class="media-screen" src="../../src/manual/settings/account/content.png" width="400"/>
 
-Por defecto viene desactivada.
+## Idioma
 
-## Lenguaje/Idioma
-
-Chevereto puede detectar el idioma automáticamente, de igual manera ud puede elegir entre 35 idiomas para mayor comodidad.
+Chevereto detecta automáticamente el idioma. Adicionalmente se puede forzar el uso de un idioma a elección.
 
 <img class="media-screen" src="../../src/manual/settings/account/language.png" width="500"/>
 
-## Zona horaria/Timezone
+## Zona horaria
 
-Configure su zona horaria según preferencia:
+La zona horaria permite determinar la hora local del usuario.
 
 <img class="media-screen" src="../../src/manual/settings/account/timezone.png" width="500"/>
 
