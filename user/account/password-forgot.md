@@ -1,8 +1,6 @@
 # 🤦‍♂️ Recuperar contraseña
 
-Si no recuerda o extravió su contraseña debe solicitar una nueva contraseña.
-
-## Guía paso a paso
+En caso de no recordar o extraviar la contraseña y no contar con códigos de respaldo el usuario debe seguir el procedimiento de recuperación de contraseña.
 
 * Click en **Entrar** en la barra superior
 * Click en **Recuperar contraseña**

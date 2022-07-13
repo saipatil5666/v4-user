@@ -1,8 +1,11 @@
 <?php
 
 return [
-    'my-profile.md',
-    'albums.md',
+    'user-profile.md',
     'notifications.md',
-    'social-features.md',
+    'color-palette.md',
+    'albums.md',
+    'liked.md',
+    'following.md',
+    'followers.md',
 ];

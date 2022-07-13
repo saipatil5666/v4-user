@@ -1,21 +1,20 @@
 # 📁 Álbumes
 
-`/<user>/albums`
-
-Para acceder o editar sus álbumes:
-
-* Click en el ícono de usuario y luego click en **Álbumes**
-
-Puede seleccione uno o más álbumes, editarlos de manera individual con las herramientas de cada álbum, o de manera masiva con la ayuda del menú acciones de la derecha.
+En esta sección se encuentran los álbumes del usuario.
 
 <img class="media-screen" src="../../src/manual/settings/user/content/user-album.png" width="600"/>
 
-## Acciones
+## Acceder a mis álbumes
 
-Al seleccionar uno o más álbumes se activarán las **Acciones de listado** que ayudarán al usuario a organizar su contenido.
+* En la barra superior, click en el **Ícono de usuario** (requiere [🔑 Ingreso](../account/login.md))
+* Click en **Álbumes**
 
-También puede acceder a estas opciones mediante atajos de teclado los cuales se muestran al costado derecho en el menú.
+## Crear nuevo album
 
-::: tip Aprenda más
-Visite 👉🏻 [Listados](../../features/listings.md) para más detalles
-:::
+Desde cualquier **sección de usuario**:
+
+* Click en **Crear nuevo album** (requiere [🔑 Ingreso](../account/login.md))
+* Completar y enviar el **formulario**
+* Al finalizar se **redireccionará** al album recién creado
+
+`🚧 wip - from uploader`

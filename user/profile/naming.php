@@ -1,8 +1,11 @@
 <?php
 
 return [
-    'my-profile.md' => '🏡 Mi perfil',
-    'albums.md' => '📁 Álbumes',
+    'user-profile.md' => '👤 Perfil de usuario',
     'notifications.md' => '🔔 Notificaciones',
-    'social-features.md' => '🍦 Características sociales',
+    'color-palette.md' => '🎨 Paleta de color',
+    'albums.md' => '📁 Álbumes',
+    'liked.md' => '👍 Me gusta',
+    'following.md' => '👀 Siguiendo',
+    'followers.md' => '👏 Seguidores',
 ];

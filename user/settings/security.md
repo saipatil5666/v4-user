@@ -12,9 +12,9 @@ La autentificación en dos pasos permite configurar un dispositivo TOTP para una
 
 Para habilitar la autentificación en dos pasos:
 
-* **Abra** su aplicación TOTP (Authenticator, 2FA, etc.)
-* **Escanee** el código QR
-* **Introduzca** el código en Chevereto
+* Abra su **aplicación TOTP** (Authenticator, 2FA, etc.)
+* Escanee el **código QR**
+* Introduzca el **código OTP** en Chevereto
 
 ## Inhabilitar dos pasos
 

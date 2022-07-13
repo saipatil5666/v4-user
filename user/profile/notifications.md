@@ -1,5 +1,5 @@
 # 🔔 Notificaciones
 
-Encuentre las notificaciones en la parte superior derecha, al lado del ícono del perfil del usuario.
+Las notificaciones se ubican en la barra superior, al costado del ícono de usuario.
 
 <img class="media-screen" src="../../src/manual/settings/user/content/notification-ex.png" width="400"/>

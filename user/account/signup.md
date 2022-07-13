@@ -1,14 +1,10 @@
 # ✍️ Crear cuenta
 
-Registrar una cuenta permitirá asociar el contenido a un usuario y acceder a otras funcionalidades del software.
-
-## Guía en vídeo
+Registrar una cuenta permitirá asociar el contenido a un usuario y acceder a otras funcionalidades de Chevereto.
 
 <video class="media-screen" width="100%" controls autoplay>
     <source src="../../src/screen/signup.webm" type="video/webm">
 </video>
-
-## Guía paso a paso
 
 * En la barra superior, click en **Entrar**
 * En siguiente ventana click en **Registrarse**
