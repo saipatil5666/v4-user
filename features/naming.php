@@ -1,8 +1,9 @@
 <?php
 
 return [
-    'media-upload.md' => '🆙 Media upload',
-    'explore.md' => '🧭 Explorar',
-    'search.md' => '🔍 Búsqueda',
-    'listings.md' => '🕹 Listados',
+    'upload/' => '🌥️ Subida',
+    'search/' => '🔍 Búsqueda',
+    'explore/' => '🧭 Explorar',
+    'content/' => '🗃️ Contenido',
+    'listings/' => '🕹 Listados',
 ];
