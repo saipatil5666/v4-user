@@ -10,7 +10,7 @@ El perfil de usuario exhibe el contenido e información (pública) de un usuario
 
 ## Acceder a mi perfil
 
-* En la barra superior, click en el **Ícono de usuario** (requiere [🔑 Ingreso](../account/login.md))
+* En la barra superior, click en el **Ícono de usuario** (requiere [🔐 Ingreso](../account/login.md))
 * Click en **Mi perfil**
 
 <img class="media-screen" src="../../src/manual/settings/user/content/user-content.png" width="400"/>
@@ -19,11 +19,11 @@ El perfil de usuario exhibe el contenido e información (pública) de un usuario
 
 Para establecer el fondo de perfil:
 
-* Click en el botón **Subir fondo de perfil** (requiere [🔑 Ingreso](../account/login.md))
+* Click en el botón **Subir fondo de perfil** (requiere [🔐 Ingreso](../account/login.md))
 
 <img class="media-screen" src="../../src/manual/settings/user/profile/background.png" width="600"/>
 
-* Si ya existe un fondo hacer click en el botón **Cambiar fondo** (requiere [🔑 Ingreso](../account/login.md))
+* Si ya existe un fondo hacer click en el botón **Cambiar fondo** (requiere [🔐 Ingreso](../account/login.md))
 
 <img class="media-screen" src="../../src/manual/settings/user/profile/back-change.png" width="600"/>
 
@@ -39,4 +39,4 @@ Seguir usuarios permite estar al tanto del contenido aportado por otros usuarios
 
 Para seguir a un usuario:
 
-* Click en el botón **Seguir** (requiere [🔑 Ingreso](../account/login.md))
+* Click en el botón **Seguir** (requiere [🔐 Ingreso](../account/login.md))

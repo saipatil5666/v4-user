@@ -8,7 +8,7 @@ En esta sección se pueden ajustar las configuraciones generales de cuenta de us
 
 Para acceder a los ajustes de cuenta desde **cualquier lugar**:
 
-* En la barra superior, click en el **Ícono de usuario** (requiere [🔑 Ingreso](../account/login.md))
+* En la barra superior, click en el **Ícono de usuario** (requiere [🔐 Ingreso](../account/login.md))
 * Click en **Ajustes**
 
 <img class="media-screen" src="../../src/manual/settings/account/settings.png" width="400"/>
